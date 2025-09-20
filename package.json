@@ -1,0 +1,36 @@
+{
+  "name": "pai-system",
+  "version": "1.0.0",
+  "description": "Personal AI Infrastructure - Orchestration and Automation",
+  "scripts": {
+    "catch-me-up": "node scripts/catch-me-up.js",
+    "daily-note": "node scripts/daily-note.js",
+    "archive-chat": "node scripts/archive-chat.js",
+    "gather-legacy": "node scripts/gather-legacy.js",
+    "new-project": "node scripts/new-project.js",
+    "load-context": "node scripts/load-context.js",
+    "mode": "node scripts/mode-switch.js",
+    "verify": "node scripts/verify-system.js",
+    "progress": "node scripts/progress-summary.js",
+    "test": "bun test"
+  },
+  "hooks": {
+    "user-prompt-submit": "cat ~/.claude/CLAUDE.md"
+  },
+  "dependencies": {
+    "@anthropic-ai/claude-code": "latest",
+    "@modelcontextprotocol/sdk": "latest",
+    "chalk": "^5.6.2",
+    "date-fns": "^2.30.0",
+    "glob": "^10.4.5",
+    "yaml": "^2.8.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.10.0",
+    "bun-types": "latest",
+    "typescript": "^5.3.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
