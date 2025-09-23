@@ -1,0 +1,107 @@
+---
+title: Strategy
+creation_date: November 18, 2013
+modification_date: November 7, 2016
+migrated: 2025-09-20T01:27:49.768497
+source: apple-notes-exporter
+original_path: iCloud/Notes/2013-11-18-Strategy.md
+vault_folder: Archive/old-notes
+filename_date: 2013-11-18
+---
+
+
+Strategy
+
+Definition
+Strategy is about making specific choices to win in a marketplace
+
+A firm creates a sustainable competitive advantage over its rivals by deliberately choosing a different set of activities to deliver unique value.
+
+Strategy is an integrated set of choices that uniquely positioned a firm in its industry so as to create sustainable advantage and superior value relative to the competition.
+
+Strategy is the answer to these five questions:
+
+- What is your winning aspiration?
+- Where will you play?
+- How will you win?
+- What capabilities must be in place?
+- What management systems are required?
+
+Really clear trade-offs that align to capital allocation - small store, city strategy vs big store suburb strategy
+
+Budget to it that in emergent strategy (mip relief) - investments in Mobile
+
+What's happening with the centralization on eCommerce?
+
+-----------
+
+Choosing a unique advantage
+Imitation by cloning - copying everything
+imitation by straddling - maintain existing advantage while trying to extend the advantages of competitors (Air Canada and Air Canada rouge)
+Must make trade-offs to make this work can never do both without incurring major inefficiencies
+Trade-offs protect the game stragglers
+
+Trade-offs are required for three reasons: 
+inconsistencies in image or reputation 
+Arise from activities themselves - different product configuration, different equipment, different employee behavior, different skills, different management systems (value is destroyed if an activity is under designed or over designed for its use -- productivity can improve with variation in an activity is limited - Learning, leverage and scale)
+
+Without a clear framework (trying to be all things to all people) employees become confused and it becomes difficult to make decisions
+
+When defining customer segments it's important to define the activities that you will do differently for each customer segment - different activities is the key
+
+Positioning 
+
+Variety-based positioning
+Offers a subset of the industries activities, products or services 
+Conserve a wide array of customers -  but for most will only satisfy a subset of their needs
+Have a superior value chain for a particular type of service
+
+Needs-based positioning
+When groups of customers need something specific 
+
+Competitive advantage - being faster, cheaper than your competitors 
+
+Competitive advantage can be disrupted in 4 ways:
+1. A structural change in the demand-side environment (customers affluence, demographic) 
+eg. increasing affluence could promote customers' demand greater choice and higher-quality
+2. An improvement in key capabilities by one or more competitors 
+eg. Walmart becoming better at supply chain management than Kmart even though it outpaced growth for the first two decades with its focus on urban markets 
+3. New and more capable competitors from another market enter your territory
+eg. GM, Ford - when Japanese came into the US market in the early 1970s
+4. A radical change in technology
+eg. Nokia focused on voice telephony while Apple developed smartphones enabled by 3G and wireless internet capability 
+
+Ask 2 questions:
+-- What possible risks does your company face regarding each of the four types of competitive disruption?
+-- On the proactive basis how much your company unleash each type of disruption on your competitor?
+
+Two faces of competitive advantage onstage and offstage
+-- Onstage competitive advantage - the perceptions of target customers about how your goods and services compare with those of competitors along the criteria that are important to them in making buying decisions
+(Do your competitors give you credit for your competitive advantage?)
+-- Backstage competitive advantage - how your resources capabilities and relationships compare with those of your competitors 
+(Enabled the company to create and sustain on stage competitive advantages)
+
+Trying to create on stage manages without enabling them with backstage advantages is almost always a suicidal path.
+
+Customer alignment
+Matching what you sell and deliver with what the customer really needs and wants.
+ 
+Purchase and consumption cycle
+Need/want > evaluate > purchase > use/store > maintain/upgrade > dispose
+How does the customer:
+Realize the need for a purchase?
+Define these needs
+Identify the alternatives
+Choose a vendor or brand
+Place the order 
+pay for the order 
+follow up on the order
+Have the goods and services delivered
+Have them stored 
+Utilize them effectively
+Have them maintained and upgraded
+Dispose of the old goods
+
+Ask this question:
+At each point in the cycle, does your company enjoy a competitive advantage? Or parity? Or disadvantage?
+

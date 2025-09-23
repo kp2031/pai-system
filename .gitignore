@@ -1,42 +1,31 @@
-# Node modules
-node_modules/
-npm-debug.log
-yarn-error.log
+# Large media files
+*.MOV
+*.mov
+*.mp4
+*.avi
 
-# Environment variables
-.env
-.env.local
-.env.*.local
+# Sensitive files
+*API*
+*api*
+*token*
+*TOKEN*
+*secret*
+*SECRET*
+*key*
+*KEY*
+Archive/ephemera/2022-12-30-Open\ AI.md
+Archive/uncategorized/Open_AI.md
+Inbox/to-review/Open_AI.md
+Inbox/to-review/echo_.md
 
-# OS files
+# System files
 .DS_Store
-Thumbs.db
-
-# Editor directories and files
-.idea/
-.vscode/
-*.swp
-*.swo
-*~
-
-# Obsidian
-.obsidian/
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
 .trash/
-
-# Personal/Private
-Areas/Career/Daily_Notes/current.md
-Projects/current
-*.private.md
-private/
 
 # Temporary files
 *.tmp
 *.temp
-*.log
-
-# Archive files (if you want to keep them local)
-# Archive/
-
-# Working context (may contain sensitive info)
-# Remove this line if you want to sync working context
-/Areas/Career/Daily_Notes/2025-*.md
+.pai-processing/active/
+.pai-processing/staging/

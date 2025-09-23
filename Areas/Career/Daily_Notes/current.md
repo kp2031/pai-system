@@ -1,0 +1,1 @@
+/Users/kavi/Obsidian/Areas/Career/Daily_Notes/2025-09-19.md

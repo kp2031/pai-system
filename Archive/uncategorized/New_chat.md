@@ -1,0 +1,24 @@
+---
+title: New chat
+creation_date: February 21, 2023
+modification_date: February 21, 2023
+migrated: 2025-09-20T01:46:04.354678
+source: apple-notes-exporter
+original_path: iCloud/Notes/2023-02-21-New chat.md
+vault_folder: Archive/uncategorized
+filename_date: 2023-02-21
+---
+
+
+# "Deep Work" by Cal Newport is a book that focuses on the importance of performing deep, focused work to achieve professional success and fulfillment. Here are five of the top concepts from the book:# 
+
+1. Deep work: The core concept of the book, deep work refers to the ability to concentrate without distraction on a cognitively demanding task. Newport argues that deep work is essential for producing high-quality work and achieving professional success.
+2. Productivity and distraction: Newport emphasizes the negative impact of distractions on productivity and argues that we need to eliminate or minimize them to achieve deep work. He also provides strategies for managing distractions, such as time blocking and embracing boredom.
+3. Attention residue: Newport introduces the concept of attention residue, which refers to the lingering effects of a previous task on our attention when we switch to a new task. He argues that attention residue can reduce the quality of our work and make it harder to achieve deep work.
+4. Deliberate practice: Newport highlights the importance of deliberate practice, which involves pushing yourself out of your comfort zone to improve your skills. He suggests that deliberate practice can help us achieve deep work and improve our productivity and effectiveness.
+5. Deep work and fulfillment: Finally, Newport argues that deep work is not only important for professional success but also for personal fulfillment. He suggests that deep work can lead to a sense of mastery, autonomy, and purpose that can make our work more satisfying and meaningful.
+
+# 
+
+[https://chat.openai.com/chat?__cf_chl_tk=tCPEKENnN5ZpF0evZOQZY_bwL71N.w0KIGU_CSyKkTs-1676502424-0-gaNycGzNKuU](https://chat.openai.com/chat?__cf_chl_tk=tCPEKENnN5ZpF0evZOQZY_bwL71N.w0KIGU_CSyKkTs-1676502424-0-gaNycGzNKuU)
+

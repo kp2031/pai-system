@@ -1,0 +1,33 @@
+---
+migrated: 2025-09-20T01:49:26.528469
+source: apple-notes-exporter
+original_path: Backup/iCloud/Notes/Pat leave.md
+vault_folder: Inbox/to-review
+---
+# Pat leave
+
+# Pa# t # leave
+
+Pay period 8
+
+- Friday April 8th
+
+Paid on April 15
+
+5 days after April 15
+
+April 20 - posted to 
+
+Look for record of employment on service Canada 
+
+Create EI
+Electronic record of E linking
+
+When I get first pay from service Canada 
+
+“My latest claim” 
+
+Send Allison an email on May 13th
+
+Feed OSI to workday 
+

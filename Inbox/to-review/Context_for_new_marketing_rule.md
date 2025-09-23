@@ -1,0 +1,17 @@
+---
+migrated: 2025-09-20T01:49:58.776641
+source: apple-notes-exporter
+original_path: Backup/iCloud/Notes/Context for new marketing rule.md
+vault_folder: Inbox/to-review
+---
+# Context for new marketing rule
+
+Product leadership role to lead Walmart Canada’s product management team. The parts of the shopping funnel that I will manage our upper funnel digital marketing order conversion tactics not item conversion post order customer experience, including order related emails and messages order tracking Customer Service applications returns and exchanges payment methods. Loyalty programs, including the launch of Walmart plus in Canada programs that include stores like store mode and in store price scanning from a customer’s perspective and other loyalty driving programs. 
+
+There are three squads within this team the first one deals with upper funnel, marketing, digital marketing, SEO, consent capturing, privacy. The second squad focuses on post purchase journey so everything like order tracking help center for self service from a customers perspective the call center applications customer support, chat, bot application, exchanges and returns applications on the site and the third squad focuses on making sure the accounts identity technologies within the website work really well customers are able to easily added and removed payment methods. They also focus on building promotion capabilities. They also focus on building up a loyalty program Walmart plus for Canada and also focus on Ani channel capabilities that customers would use like scanning their app in a store to identify themselves so they can get the receipts working with store teams to ensure that the digital identification of customers work seamlessly and we can maximize identified customers in stores. One of the primary objectives of this team is to really understand the capabilities, US has built in all of these functions over the past couple of years and really understand what their own map is for the next couple of years so that we can align our roadmap to leverage the US development since we are all going to be on the same technology platform. This includes really deeply understanding the Canadian customer it includes understanding the Canadian business strategy. It includes understanding the dynamics of shifting consumer needs in Canada. It includes shifting strategic priorities for Walmart Canada with a new executive team and it includes mapping all of these local Canadian factors onto a global technology roadmap for one single platform across multiple countries primarily the US and Canada.
+
+The goal and key objective of this role is to establish strong, trusted relationships with business operators and leaders so that the technology powered solutions that support the customer service and marketing organizations thrive. 
+
+And similarly build strong, trusting relationships that are collaborative with international technology teams, as well as US technology teams that would be my peers in international and my peers in the US that cover the same scope and objectives as my team.
+
+I’m looking for a first 90 days plan using the best practices from Harvard McKenzie Bain Boston consultant group Stanford all of the top thinkers in the space of first 90 day plans for a new leader within a business function that’s coming from a completely outside function, if the detail level can be first summarized in 30 day sections and then separately a very detailed week by week breakdown with specific actions meetings documents to be created, etc.. 
