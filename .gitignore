@@ -28,4 +28,4 @@ Inbox/to-review/echo_.md
 *.tmp
 *.temp
 .pai-processing/active/
-.pai-processing/staging/
+.pai-processing/staging/.pai-processing/things2md/
